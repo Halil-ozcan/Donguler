@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{104E1D62-F867-432A-B26E-6C92ACD2AE47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAlistirma", "ForAlistirma\ForAlistirma.csproj", "{D1149583-5F89-4697-A070-AC5C2B6ED923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{104E1D62-F867-432A-B26E-6C92ACD2AE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{104E1D62-F867-432A-B26E-6C92ACD2AE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{104E1D62-F867-432A-B26E-6C92ACD2AE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1149583-5F89-4697-A070-AC5C2B6ED923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1149583-5F89-4697-A070-AC5C2B6ED923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1149583-5F89-4697-A070-AC5C2B6ED923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1149583-5F89-4697-A070-AC5C2B6ED923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
