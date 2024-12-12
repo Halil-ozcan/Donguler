@@ -10,15 +10,16 @@ namespace Ic_Ice_ForDongusu
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i <= 20; i++)
+            for(int i = 1; i <= 9; i++)
             {
-                for (int j = 1; j <= i; j++)
+                for(int y = 1; y <= 9; y++)
                 {
-                    Console.WriteLine("*");
+                    int carpimSonuc = i * y;
+                    Console.Write("{0}*{1}={2}\t", i, y, carpimSonuc);
                 }
                 Console.WriteLine();
             }
-            Console.Clear();
+
         }
     }
 }
