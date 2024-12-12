@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Dongul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAlistirma", "ForAlistirma\ForAlistirma.csproj", "{D1149583-5F89-4697-A070-AC5C2B6ED923}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ic-Ice-ForDongusu", "Ic-Ice-ForDongusu\Ic-Ice-ForDongusu.csproj", "{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D1149583-5F89-4697-A070-AC5C2B6ED923}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1149583-5F89-4697-A070-AC5C2B6ED923}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1149583-5F89-4697-A070-AC5C2B6ED923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
