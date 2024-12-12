@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ic-Ice-ForDongusu", "Ic-Ice
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachDongusu", "ForEachDongusu\ForEachDongusu.csproj", "{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileDongusu", "WhileDongusu\WhileDongusu.csproj", "{39F5BA48-26C2-4977-8742-011E133C093C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F5BA48-26C2-4977-8742-011E133C093C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F5BA48-26C2-4977-8742-011E133C093C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F5BA48-26C2-4977-8742-011E133C093C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F5BA48-26C2-4977-8742-011E133C093C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
