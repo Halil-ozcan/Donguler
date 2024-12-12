@@ -10,6 +10,15 @@ namespace Ic_Ice_ForDongusu
     {
         static void Main(string[] args)
         {
+            for (int i = 1; i <= 20; i++)
+            {
+                for (int j = 1; j <= i; j++)
+                {
+                    Console.WriteLine("*");
+                }
+                Console.WriteLine();
+            }
+            Console.Clear();
         }
     }
 }
