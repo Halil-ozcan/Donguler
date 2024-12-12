@@ -10,6 +10,12 @@ namespace ForEachDongusu
     {
         static void Main(string[] args)
         {
+            string[] isimler = new[] { "Halil Özcan", "Hakan Baytar", "Cemal kamçı", "Ezgi Topçu" };
+
+            foreach(var item in isimler)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
