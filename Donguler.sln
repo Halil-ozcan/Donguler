@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAlistirma", "ForAlistirm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ic-Ice-ForDongusu", "Ic-Ice-ForDongusu\Ic-Ice-ForDongusu.csproj", "{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachDongusu", "ForEachDongusu\ForEachDongusu.csproj", "{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD32C5F7-2C49-46B9-8CA2-4AD75AE4B390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4792C4A-C359-4CA3-81A3-CBFD8EAFAA96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
